@@ -1,0 +1,6 @@
+{
+  "name": "مدونة الحسابات",
+  "description": "تطبيق محاسبي متكامل لإدارة الحسابات والعملات والتحويلات والسندات والتقارير المالية بتصميم مالي راقي وعصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
